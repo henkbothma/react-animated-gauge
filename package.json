@@ -1,0 +1,28 @@
+{
+  "name": "react-animated-gauge",
+  "version": "0.0.1",
+  "description": "Animated Gauge for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henkbothma/react-animated-gauge.git"
+  },
+  "keywords": [
+    "react",
+    "animated",
+    "gauge"
+  ],
+  "author": "Henk Bothma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henkbothma/react-animated-gauge/issues"
+  },
+  "homepage": "https://github.com/henkbothma/react-animated-gauge#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0"
+  }
+}
